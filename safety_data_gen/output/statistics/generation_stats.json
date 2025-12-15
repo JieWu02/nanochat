@@ -1,0 +1,61 @@
+{
+  "total_attempts": 1000,
+  "success": 936,
+  "failed": 64,
+  "by_category": {
+    "refusal": {
+      "success": 439,
+      "failed": 61
+    },
+    "redirection": {
+      "success": 497,
+      "failed": 3
+    }
+  },
+  "by_subcategory": {
+    "refusal/violence_weapons": {
+      "success": 76,
+      "failed": 8
+    },
+    "refusal/illegal_activities": {
+      "success": 83,
+      "failed": 1
+    },
+    "refusal/hacking_cybercrime": {
+      "success": 83,
+      "failed": 0
+    },
+    "refusal/self_harm": {
+      "success": 41,
+      "failed": 42
+    },
+    "refusal/harassment_hate": {
+      "success": 76,
+      "failed": 7
+    },
+    "refusal/child_safety": {
+      "success": 80,
+      "failed": 3
+    },
+    "redirection/negative_emotions": {
+      "success": 99,
+      "failed": 1
+    },
+    "redirection/offering_alternatives": {
+      "success": 99,
+      "failed": 1
+    },
+    "redirection/educational_explanations": {
+      "success": 100,
+      "failed": 0
+    },
+    "redirection/mental_health_resources": {
+      "success": 100,
+      "failed": 0
+    },
+    "redirection/conflict_resolution": {
+      "success": 99,
+      "failed": 1
+    }
+  }
+}

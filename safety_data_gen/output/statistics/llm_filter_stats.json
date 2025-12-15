@@ -1,0 +1,23 @@
+{
+  "input_count": 936,
+  "accepted": 936,
+  "rejected": 0,
+  "api_errors": 0,
+  "rejection_reasons": {},
+  "by_category": {
+    "refusal": {
+      "accepted": 439,
+      "rejected": 0
+    },
+    "redirection": {
+      "accepted": 497,
+      "rejected": 0
+    }
+  },
+  "average_scores": {
+    "safety": 5.0,
+    "naturalness": 4.75,
+    "completeness": 4.59,
+    "consistency": 4.97
+  }
+}

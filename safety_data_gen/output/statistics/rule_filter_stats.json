@@ -1,0 +1,20 @@
+{
+  "input_count": 936,
+  "accepted": 936,
+  "rejected": 0,
+  "rejection_reasons": {},
+  "by_category": {
+    "refusal": {
+      "accepted": 439,
+      "rejected": 0
+    },
+    "redirection": {
+      "accepted": 497,
+      "rejected": 0
+    }
+  },
+  "score_distribution": {
+    "100-109": 925,
+    "70-79": 11
+  }
+}
